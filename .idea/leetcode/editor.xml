@@ -6,10 +6,21 @@
         <entry key="$PROJECT_DIR$/每日一题/May/leetcode/editor/cn/[1542]找出最长的超赞子字符串.py">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/每日一题/May/leetcode/editor/cn/doc/content/[1542]找出最长的超赞子字符串.md" />
+              <option name="contentPath" value="$PROJECT_DIR$/每日一题/leetcode/editor/cn/doc/content/[1542]找出最长的超赞子字符串.md" />
               <option name="frontendQuestionId" value="leetcode.cn1542" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/每日一题/May/leetcode/editor/cn/[1542]找出最长的超赞子字符串.py" />
+              <option name="path" value="$PROJECT_DIR$/每日一题/leetcode/editor/cn/[1542]找出最长的超赞子字符串.py" />
+              <option name="titleSlug" value="find-longest-awesome-substring" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/每日一题/leetcode/editor/cn/[1542]找出最长的超赞子字符串.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/每日一题/leetcode/editor/cn/doc/content/[1542]找出最长的超赞子字符串.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1542" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/每日一题/leetcode/editor/cn/[1542]找出最长的超赞子字符串.py" />
               <option name="titleSlug" value="find-longest-awesome-substring" />
             </LeetcodeEditor>
           </value>
@@ -17,10 +28,10 @@
         <entry key="$PROJECT_DIR$/../Pycharm Leetcode/leetcode/editor/cn/[1542]找出最长的超赞子字符串.py">
           <value>
             <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/每日一题/May/leetcode/editor/cn/doc/content/[1542]找出最长的超赞子字符串.md" />
+              <option name="contentPath" value="$PROJECT_DIR$/每日一题/leetcode/editor/cn/doc/content/[1542]找出最长的超赞子字符串.md" />
               <option name="frontendQuestionId" value="leetcode.cn1542" />
               <option name="host" value="leetcode.cn" />
-              <option name="path" value="$PROJECT_DIR$/每日一题/May/leetcode/editor/cn/[1542]找出最长的超赞子字符串.py" />
+              <option name="path" value="$PROJECT_DIR$/每日一题/leetcode/editor/cn/[1542]找出最长的超赞子字符串.py" />
               <option name="titleSlug" value="find-longest-awesome-substring" />
             </LeetcodeEditor>
           </value>
